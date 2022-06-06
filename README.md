@@ -1,6 +1,7 @@
 <div id="header">
   <img src="https://raw.githubusercontent.com/henrytaby/henrytaby/main/image/henrytaby-portada.jpg" width="100%"/>
 </div>
+
 ## Software developer
 
 <!--
@@ -17,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/henrytaby">
@@ -30,6 +32,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=henrytaby&style=flat-square&color=blue" alt=""/>
+
+</div>
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -59,9 +63,8 @@ Here are some ideas to get you started:
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=henrytaby&theme=dark)](https://git.io/streak-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=henrytaby&theme=dark">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrytaby&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrytaby&layout=compact&theme=vision-friendly-dark">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrytaby&show_icons=true&theme=radical)
-
+<img src="https://github-readme-stats.vercel.app/api?username=henrytaby&show_icons=true&theme=radical">
