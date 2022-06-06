@@ -2,7 +2,8 @@
   <img src="https://raw.githubusercontent.com/henrytaby/henrytaby/main/image/henrytaby-portada.jpg" width="100%"/>
 </div>
 
-## Software developer
+
+### Software developer :
 
 <!--
 **henrytaby/henrytaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,10 +36,11 @@ Here are some ideas to get you started:
 
 </div>
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
 <!-- 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -62,6 +64,9 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=henrytaby&theme=dark">
 
