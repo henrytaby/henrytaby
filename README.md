@@ -66,10 +66,10 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My Stats :
+###
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=henrytaby&theme=dark">
+<br clear="both">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrytaby&layout=compact&theme=vision-friendly-dark">
+<img src="https://raw.githubusercontent.com/melizeche/melizeche/output/snake.svg" alt="Snake animation" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=henrytaby&show_icons=true&theme=radical">
+###
