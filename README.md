@@ -64,17 +64,17 @@
 
 ### 🚀 Trayectoria Profesional y Logros Destacados
 
-⚡ **Product Manager & Senior Developer (SETH Solution)**  
-*Lideré la creación de +10 sistemas de información nacional e internacional, integrando geodatabases (SIG) y mejorando el rendimiento general de los sistemas en un 35% gracias a una arquitectura modular orientada a servicios.*
+⚡ **Product Manager & Senior Developer**  
+*Lideré la creación de +10 sistemas de información a nivel nacional e internacional, integrando bases de datos geoespaciales (SIG) y mejorando el rendimiento general de los sistemas en un 35% mediante una arquitectura modular orientada a servicios.*
 
-🌍 **Consultorías de Alto Impacto (BID, OTCA, FILAC, s.a. AGRER N.V.)**  
-*Implementación tecnológica para instituciones clave. Ej: Optimización del Sistema de Información de Biodiversidad (MNHN) reduciendo en 40% los tiempos de carga, y gestión técnica para la VI Conferencia LatinoSan.*
+🌍 **Consultorías Tecnológicas de Alto Impacto**  
+*Implementación de ecosistemas digitales para organismos internacionales e instituciones clave. Destaca la optimización de bases de datos de biodiversidad (reduciendo en 40% los tiempos de carga) y la dirección técnica de plataformas para conferencias de alcance continental.*
 
-🏛️ **Sector Logístico, Operativo y Gubernamental (Aduana Nacional / MMAyA)**  
-*Ingeniería de datos, ETLs y administración de infraestructura crítica en frontera bajo normativas estrictas. Previamente, coordinación ágil y diseño de microservicios para el Ministerio de Medio Ambiente.*
+🏛️ **Sector Logístico, Operaciones Críticas y Gubernamental**  
+*Ingeniería de datos, optimización de ETLs y administración de infraestructura crítica en fronteras bajo normativas estrictas. Especialista en la coordinación ágil y el diseño de microservicios para plataformas gubernamentales.*
 
-📶 **Telecomunicaciones (VIVA - Nuevatel)**  
-*Como Ingeniero VAS, fui responsable de portales informáticos y servicios SMS que soportaban más de 100,000 usuarios activos.*
+📶 **Desarrollo en el Sector de Telecomunicaciones**  
+*Como Ingeniero de Servicios de Valor Agregado (VAS), fui responsable del despliegue de portales informáticos y servicios transaccionales masivos que soportaban más de 100,000 usuarios activos.*
 
 ---
 
