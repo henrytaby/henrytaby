@@ -57,14 +57,6 @@
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henrytaby&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrytaby&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Top" height="192px"/>
-</div>
 
 ---
 
