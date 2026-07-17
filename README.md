@@ -2,71 +2,96 @@
   <img src="https://raw.githubusercontent.com/henrytaby/henrytaby/main/image/henrytaby-portada.jpg" width="100%" alt="Banner Henry Taby"/>
 </div>
 
-<h1 align="center">Hola 👋, soy Henry Taby</h1>
-<h3 align="center">Software Developer | AI Specialist | Backend Expert</h3>
-
-<p align="center">
-  Ingeniero de Software con una <b>Maestría en Inteligencia Artificial</b> y amplia experiencia diseñando arquitecturas robustas, integrando modelos de IA y desarrollando soluciones escalables (ERPs, sistemas logísticos, automatizaciones). Apasionado por el código limpio, la optimización de procesos y el desarrollo backend.
-</p>
+<h1 align="center">Henry Taby 👋</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI & Data Science 🚀</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/henrytaby">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/henrytaby">
+  <a href="mailto:henry.taby@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://youtube.com/henrytaby">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/henrytaby">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://henrytaby.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Badge"/>
   </a>
 </div>
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=henrytaby&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views"/>
+  <b>Más de 10 años transformando requerimientos complejos en soluciones tecnológicas escalables.</b><br>
+  Ingeniero de Sistemas especialista en arquitecturas sólidas (SOLID), desarrollo Full-Stack, microservicios y Sistemas de Información Geográfica (SIG). Actualmente aplicando Inteligencia Artificial, Machine Learning y Data Science a procesos analíticos y automatizaciones.
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 💻 Stack Tecnológico
 
 <div align="center">
-  <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  
-  <br>
-  <!-- Frameworks & Librerías -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  
-  <br>
-  <!-- Base de Datos & Infraestructura -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  
-  <br>
-  <!-- IA & Otros -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <!-- Top skills icon format -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,java,php" alt="Langs" />
+  </a>
 </div>
-
+<br>
+<div align="center">
+  <b>Backend & APIs:</b><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <br><br>
+  <b>Frontend:</b><br>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <br><br>
+  <b>Bases de Datos & DevOps:</b><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI/CD-330F63?style=flat-square&logo=gitlab&logoColor=white" />
+  <br><br>
+  <b>Data & SIG:</b><br>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_&_Machine_Learning-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+</div>
 
 ---
 
-### 🌱 Experiencia y Enfoque Actual
-- 🔭 Actualmente enfocado en **arquitecturas escalables** y en la **integración de modelos de IA** para optimizar flujos de negocio.
-- 💡 Experiencia técnica comprobada liderando y desarrollando plataformas de alta disponibilidad para el sector logístico y de comercio exterior.
-- 👯 Abierto a oportunidades de desarrollo backend (Laravel/Python) y proyectos donde la Inteligencia Artificial sea un diferenciador clave.
-- 📫 Contáctame vía: [henry.taby@gmail.com](mailto:henry.taby@gmail.com) o en [LinkedIn](https://www.linkedin.com/in/henrytaby)
+### 🚀 Trayectoria Profesional y Logros Destacados
+
+⚡ **Product Manager & Senior Developer (SETH Solution)**  
+*Lideré la creación de +10 sistemas de información nacional e internacional, integrando geodatabases (SIG) y mejorando el rendimiento general de los sistemas en un 35% gracias a una arquitectura modular orientada a servicios.*
+
+🌍 **Consultorías de Alto Impacto (BID, OTCA, FILAC, s.a. AGRER N.V.)**  
+*Implementación tecnológica para instituciones clave. Ej: Optimización del Sistema de Información de Biodiversidad (MNHN) reduciendo en 40% los tiempos de carga, y gestión técnica para la VI Conferencia LatinoSan.*
+
+🏛️ **Sector Logístico, Operativo y Gubernamental (Aduana Nacional / MMAyA)**  
+*Ingeniería de datos, ETLs y administración de infraestructura crítica en frontera bajo normativas estrictas. Previamente, coordinación ágil y diseño de microservicios para el Ministerio de Medio Ambiente.*
+
+📶 **Telecomunicaciones (VIVA - Nuevatel)**  
+*Como Ingeniero VAS, fui responsable de portales informáticos y servicios SMS que soportaban más de 100,000 usuarios activos.*
+
+---
+
+### 📈 El Perfil en Números
+
+- 🎯 **+40** Sistemas informáticos desarrollados y entregados con éxito.
+- 🌍 **+10** Proyectos simultáneos de alto impacto para organismos internacionales.
+- 👨‍🏫 **+300** Usuarios y técnicos capacitados presencialmente.
+- 🎓 **Maestría** (en curso) enfocada en IA, Machine Learning y Data Science.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=henrytaby&style=flat-square&color=blue&label=Visitas+al+Perfil" alt="Profile Views"/>
+</p>
 
 <br>
-<div align="center">
-  <i>"El mejor código es aquel que nadie tiene que explicar."</i>
-</div>
+<p align="center">
+  <i>"El éxito de un sistema no solo se mide por su código y robustez técnica, sino por el impacto real y positivo que genera en sus usuarios."</i>
+</p>
